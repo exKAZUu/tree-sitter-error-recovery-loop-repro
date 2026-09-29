@@ -1,0 +1,10 @@
+{
+  "name": "tree-sitter-error-recovery-loop-repro",
+  "private": true,
+  "scripts": {
+    "repro": "sh repro.sh"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "0.27.0"
+  }
+}
